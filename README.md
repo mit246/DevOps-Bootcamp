@@ -1,4 +1,13 @@
 # 🔥DevOps-Bootcamp
+hey guys 
+my favourite anime list is as follows 
+1 one piece  
+2 mha
+3 jjk
+4 naruto
+5 haikyuu
+6 aot
+
 
 ![DevOps-Bootcamp](https://socialify.git.ci/kunal-kushwaha/DevOps-Bootcamp/image?description=1&font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
